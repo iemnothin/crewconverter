@@ -173,11 +173,6 @@ List ships for dropdown
 
 ---
 
-## 🖼 Screenshots (Optional)
-Add your screenshots here.
-
----
-
 ## 📄 License
 MIT License.
 
